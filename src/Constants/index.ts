@@ -1,0 +1,1 @@
+export const URL = "https://grumpy-lion-pea-coat.cyclic.app/graphql"
